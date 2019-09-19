@@ -1,0 +1,10 @@
+C:\Users\pvoro\Desktop\study\CompGraph\RGBHistogram\bin\Debug\RGBHistogram.exe.config
+C:\Users\pvoro\Desktop\study\CompGraph\RGBHistogram\bin\Debug\RGBHistogram.exe
+C:\Users\pvoro\Desktop\study\CompGraph\RGBHistogram\bin\Debug\RGBHistogram.pdb
+C:\Users\pvoro\Desktop\study\CompGraph\RGBHistogram\obj\Debug\RGBHistogram.csprojAssemblyReference.cache
+C:\Users\pvoro\Desktop\study\CompGraph\RGBHistogram\obj\Debug\RGBHistogram.Form1.resources
+C:\Users\pvoro\Desktop\study\CompGraph\RGBHistogram\obj\Debug\RGBHistogram.Properties.Resources.resources
+C:\Users\pvoro\Desktop\study\CompGraph\RGBHistogram\obj\Debug\RGBHistogram.csproj.GenerateResource.cache
+C:\Users\pvoro\Desktop\study\CompGraph\RGBHistogram\obj\Debug\RGBHistogram.csproj.CoreCompileInputs.cache
+C:\Users\pvoro\Desktop\study\CompGraph\RGBHistogram\obj\Debug\RGBHistogram.exe
+C:\Users\pvoro\Desktop\study\CompGraph\RGBHistogram\obj\Debug\RGBHistogram.pdb
