@@ -9,3 +9,14 @@ C:\Users\кирилл\OneDrive\компьютерная графика\с гит
 C:\Users\кирилл\OneDrive\компьютерная графика\с гита\lab2(task 3)\obj\Debug\lab2(task 3).exe
 C:\Users\кирилл\OneDrive\компьютерная графика\с гита\lab2(task 3)\obj\Debug\lab2(task 3).pdb
 C:\Users\кирилл\OneDrive\компьютерная графика\с гита\lab2(task 3)\obj\Debug\lab2_task_3_.Form2.resources
+C:\Users\raisa\Documents\GitHub\lab2(task 3)\bin\Debug\lab2(task 3).exe.config
+C:\Users\raisa\Documents\GitHub\lab2(task 3)\bin\Debug\lab2(task 3).exe
+C:\Users\raisa\Documents\GitHub\lab2(task 3)\bin\Debug\lab2(task 3).pdb
+C:\Users\raisa\Documents\GitHub\lab2(task 3)\obj\Debug\lab2(task 3).csprojAssemblyReference.cache
+C:\Users\raisa\Documents\GitHub\lab2(task 3)\obj\Debug\lab2_task_3_.Form1.resources
+C:\Users\raisa\Documents\GitHub\lab2(task 3)\obj\Debug\lab2_task_3_.Form2.resources
+C:\Users\raisa\Documents\GitHub\lab2(task 3)\obj\Debug\lab2_task_3_.Properties.Resources.resources
+C:\Users\raisa\Documents\GitHub\lab2(task 3)\obj\Debug\lab2(task 3).csproj.GenerateResource.cache
+C:\Users\raisa\Documents\GitHub\lab2(task 3)\obj\Debug\lab2(task 3).csproj.CoreCompileInputs.cache
+C:\Users\raisa\Documents\GitHub\lab2(task 3)\obj\Debug\lab2(task 3).exe
+C:\Users\raisa\Documents\GitHub\lab2(task 3)\obj\Debug\lab2(task 3).pdb

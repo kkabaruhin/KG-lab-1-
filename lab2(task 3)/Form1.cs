@@ -229,11 +229,17 @@ namespace lab2_task_3_
                         V = HSV[2];
 
                         if (textBox1.Text != "")
-                            H = byte.Parse(textBox1.Text);
+                            H += (byte)(byte.Parse(textBox1.Text) % 255);
                         if (textBox2.Text != "")
-                            S = byte.Parse(textBox2.Text);
+                            if (int.Parse(textBox2.Text) > 0)
+                                 S = (byte)(Math.Min(S + int.Parse(textBox2.Text), 255));
+                            else
+                                S = (byte)(Math.Max(S + int.Parse(textBox2.Text), 0));
                         if (textBox3.Text != "")
-                            V = byte.Parse(textBox3.Text);
+                            if (int.Parse(textBox3.Text) > 0)
+                                V = (byte)(Math.Min(V + int.Parse(textBox3.Text), 255));
+                            else
+                                V = (byte)(Math.Max(V + int.Parse(textBox3.Text), 0));
 
                         byte[] RGB = GetRGB(H, S, V);
 
