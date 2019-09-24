@@ -8,3 +8,13 @@ C:\Users\кирилл\OneDrive\компьютерная графика\lab3 (tas
 C:\Users\кирилл\OneDrive\компьютерная графика\lab3 (task 1a + 1b)\obj\Debug\lab3 (task 1a + 1b).csproj.CoreCompileInputs.cache
 C:\Users\кирилл\OneDrive\компьютерная графика\lab3 (task 1a + 1b)\obj\Debug\lab3 (task 1a + 1b).exe
 C:\Users\кирилл\OneDrive\компьютерная графика\lab3 (task 1a + 1b)\obj\Debug\lab3 (task 1a + 1b).pdb
+C:\Users\кирилл\OneDrive\компьютерная графика\lab3\task1\bin\Debug\lab3 (task 1a + 1b).exe.config
+C:\Users\кирилл\OneDrive\компьютерная графика\lab3\task1\bin\Debug\lab3 (task 1a + 1b).exe
+C:\Users\кирилл\OneDrive\компьютерная графика\lab3\task1\bin\Debug\lab3 (task 1a + 1b).pdb
+C:\Users\кирилл\OneDrive\компьютерная графика\lab3\task1\obj\Debug\lab3 (task 1a + 1b).csprojResolveAssemblyReference.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\lab3\task1\obj\Debug\lab3__task_1a___1b_.Form1.resources
+C:\Users\кирилл\OneDrive\компьютерная графика\lab3\task1\obj\Debug\lab3__task_1a___1b_.Properties.Resources.resources
+C:\Users\кирилл\OneDrive\компьютерная графика\lab3\task1\obj\Debug\lab3 (task 1a + 1b).csproj.GenerateResource.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\lab3\task1\obj\Debug\lab3 (task 1a + 1b).csproj.CoreCompileInputs.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\lab3\task1\obj\Debug\lab3 (task 1a + 1b).exe
+C:\Users\кирилл\OneDrive\компьютерная графика\lab3\task1\obj\Debug\lab3 (task 1a + 1b).pdb

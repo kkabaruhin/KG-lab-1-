@@ -64,9 +64,6 @@ namespace lab3__task_1a___1b_
                         MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
-
-            textBox1.Text = pictureBox1.Image.Height + "; " + pictureBox1.Image.Width;
-            textBox2.Text = pictureBox2.Image.Height + "; " + pictureBox2.Image.Width;
         }
 
         private void button_choose_color(object sender, EventArgs e)
@@ -108,13 +105,14 @@ namespace lab3__task_1a___1b_
 
             x = x_input + 1;
 
-            while (bm.GetPixel(x, y_input) == start_point_color)
-            {
-                bm.SetPixel(x, y_input, fill_color);
-                x = x + 1;
-                if (x >= bm.Width)
-                    break;
-            }
+            if (x < bm.Width)
+                while (bm.GetPixel(x, y_input) == start_point_color)
+                {
+                    bm.SetPixel(x, y_input, fill_color);
+                    x = x + 1;
+                    if (x >= bm.Width)
+                        break;
+                }
 
             right = x;
 
@@ -129,9 +127,12 @@ namespace lab3__task_1a___1b_
         {
             if (pictureBox1.Image != null && color_selected && start_x != -1 && start_y != -1)
             {
+                
                 Bitmap image = new Bitmap(pictureBox1.Image);
 
-                fill_line(ref image, start_x, start_y);
+                if (fill_color.R != start_point_color.R || fill_color.G != start_point_color.G || fill_color.B != start_point_color.B)
+                    fill_line(ref image, start_x, start_y);
+
                 pictureBox3.Image = image;
             }
         }
@@ -162,14 +163,15 @@ namespace lab3__task_1a___1b_
 
             x = x_input + 1;
 
-            while (bm.GetPixel(x, y_input) == start_point_color)
-            {
-                if (x < bm_picture.Width)
-                    bm.SetPixel(x, y_input, bm_picture.GetPixel(x, y_input));
-                x = x + 1;
-                if (x >= bm.Width)
-                    break;
-            }
+            if (x < bm.Width)
+                while (bm.GetPixel(x, y_input) == start_point_color)
+                {
+                    if (x < bm_picture.Width)
+                        bm.SetPixel(x, y_input, bm_picture.GetPixel(x, y_input));
+                    x = x + 1;
+                    if (x >= bm.Width)
+                        break;
+                }
 
             right = x;
 
@@ -216,9 +218,6 @@ namespace lab3__task_1a___1b_
                 Bitmap bm = new Bitmap(pictureBox1.Image);
 
                 start_point_color = bm.GetPixel(start_x, start_y);
-
-                textBox3.Text = start_x + "; " + start_y;
-
             }
         }
     }
