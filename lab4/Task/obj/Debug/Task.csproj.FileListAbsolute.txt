@@ -1,0 +1,10 @@
+C:\Users\кирилл\OneDrive\компьютерная графика\Module03\Module03\Task\bin\Debug\Task.exe.config
+C:\Users\кирилл\OneDrive\компьютерная графика\Module03\Module03\Task\bin\Debug\Task.exe
+C:\Users\кирилл\OneDrive\компьютерная графика\Module03\Module03\Task\bin\Debug\Task.pdb
+C:\Users\кирилл\OneDrive\компьютерная графика\Module03\Module03\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\Module03\Module03\Task\obj\Debug\Task.Form1.resources
+C:\Users\кирилл\OneDrive\компьютерная графика\Module03\Module03\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\кирилл\OneDrive\компьютерная графика\Module03\Module03\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\Module03\Module03\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\Module03\Module03\Task\obj\Debug\Task.exe
+C:\Users\кирилл\OneDrive\компьютерная графика\Module03\Module03\Task\obj\Debug\Task.pdb
