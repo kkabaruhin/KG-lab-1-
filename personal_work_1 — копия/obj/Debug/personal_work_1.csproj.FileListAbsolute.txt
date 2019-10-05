@@ -1,0 +1,20 @@
+C:\Users\кирилл\OneDrive\компьютерная графика\personal_work_1\bin\Debug\personal_work_1.exe.config
+C:\Users\кирилл\OneDrive\компьютерная графика\personal_work_1\bin\Debug\personal_work_1.exe
+C:\Users\кирилл\OneDrive\компьютерная графика\personal_work_1\bin\Debug\personal_work_1.pdb
+C:\Users\кирилл\OneDrive\компьютерная графика\personal_work_1\obj\Debug\personal_work_1.csprojResolveAssemblyReference.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\personal_work_1\obj\Debug\personal_work_1.Form1.resources
+C:\Users\кирилл\OneDrive\компьютерная графика\personal_work_1\obj\Debug\personal_work_1.Properties.Resources.resources
+C:\Users\кирилл\OneDrive\компьютерная графика\personal_work_1\obj\Debug\personal_work_1.csproj.GenerateResource.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\personal_work_1\obj\Debug\personal_work_1.csproj.CoreCompileInputs.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\personal_work_1\obj\Debug\personal_work_1.exe
+C:\Users\кирилл\OneDrive\компьютерная графика\personal_work_1\obj\Debug\personal_work_1.pdb
+C:\Users\кирилл\OneDrive\компьютерная графика\personal_work_1 — копия\bin\Debug\personal_work_1.exe.config
+C:\Users\кирилл\OneDrive\компьютерная графика\personal_work_1 — копия\bin\Debug\personal_work_1.exe
+C:\Users\кирилл\OneDrive\компьютерная графика\personal_work_1 — копия\bin\Debug\personal_work_1.pdb
+C:\Users\кирилл\OneDrive\компьютерная графика\personal_work_1 — копия\obj\Debug\personal_work_1.csprojResolveAssemblyReference.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\personal_work_1 — копия\obj\Debug\personal_work_1.Form1.resources
+C:\Users\кирилл\OneDrive\компьютерная графика\personal_work_1 — копия\obj\Debug\personal_work_1.Properties.Resources.resources
+C:\Users\кирилл\OneDrive\компьютерная графика\personal_work_1 — копия\obj\Debug\personal_work_1.csproj.GenerateResource.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\personal_work_1 — копия\obj\Debug\personal_work_1.csproj.CoreCompileInputs.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\personal_work_1 — копия\obj\Debug\personal_work_1.exe
+C:\Users\кирилл\OneDrive\компьютерная графика\personal_work_1 — копия\obj\Debug\personal_work_1.pdb
