@@ -1,0 +1,10 @@
+C:\Users\кирилл\OneDrive\компьютерная графика\lab5(l-system)\bin\Debug\lab5(l-system).exe.config
+C:\Users\кирилл\OneDrive\компьютерная графика\lab5(l-system)\bin\Debug\lab5(l-system).exe
+C:\Users\кирилл\OneDrive\компьютерная графика\lab5(l-system)\bin\Debug\lab5(l-system).pdb
+C:\Users\кирилл\OneDrive\компьютерная графика\lab5(l-system)\obj\Debug\lab5(l-system).csprojResolveAssemblyReference.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\lab5(l-system)\obj\Debug\lab5_l_system_.Form1.resources
+C:\Users\кирилл\OneDrive\компьютерная графика\lab5(l-system)\obj\Debug\lab5_l_system_.Properties.Resources.resources
+C:\Users\кирилл\OneDrive\компьютерная графика\lab5(l-system)\obj\Debug\lab5(l-system).csproj.GenerateResource.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\lab5(l-system)\obj\Debug\lab5(l-system).csproj.CoreCompileInputs.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\lab5(l-system)\obj\Debug\lab5(l-system).exe
+C:\Users\кирилл\OneDrive\компьютерная графика\lab5(l-system)\obj\Debug\lab5(l-system).pdb
