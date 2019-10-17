@@ -1,0 +1,30 @@
+C:\Users\raisa\Desktop\Task%203\bin\Debug\Task 3.exe.config
+C:\Users\raisa\Desktop\Task%203\bin\Debug\Task 3.exe
+C:\Users\raisa\Desktop\Task%203\bin\Debug\Task 3.pdb
+C:\Users\raisa\Desktop\Task%203\obj\Debug\Task 3.csprojAssemblyReference.cache
+C:\Users\raisa\Desktop\Task%203\obj\Debug\Task_3.Form1.resources
+C:\Users\raisa\Desktop\Task%203\obj\Debug\Task_3.Properties.Resources.resources
+C:\Users\raisa\Desktop\Task%203\obj\Debug\Task 3.csproj.GenerateResource.cache
+C:\Users\raisa\Desktop\Task%203\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+C:\Users\raisa\Desktop\Task%203\obj\Debug\Task 3.exe
+C:\Users\raisa\Desktop\Task%203\obj\Debug\Task 3.pdb
+C:\Users\raisa\Desktop\task3\bin\Debug\Task 3.exe.config
+C:\Users\raisa\Desktop\task3\bin\Debug\Task 3.exe
+C:\Users\raisa\Desktop\task3\bin\Debug\Task 3.pdb
+C:\Users\raisa\Desktop\task3\obj\Debug\Task 3.csprojAssemblyReference.cache
+C:\Users\raisa\Desktop\task3\obj\Debug\Task_3.Form1.resources
+C:\Users\raisa\Desktop\task3\obj\Debug\Task_3.Properties.Resources.resources
+C:\Users\raisa\Desktop\task3\obj\Debug\Task 3.csproj.GenerateResource.cache
+C:\Users\raisa\Desktop\task3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+C:\Users\raisa\Desktop\task3\obj\Debug\Task 3.exe
+C:\Users\raisa\Desktop\task3\obj\Debug\Task 3.pdb
+C:\Users\кирилл\OneDrive\компьютерная графика\lab5\task3\bin\Debug\Task 3.exe.config
+C:\Users\кирилл\OneDrive\компьютерная графика\lab5\task3\bin\Debug\Task 3.exe
+C:\Users\кирилл\OneDrive\компьютерная графика\lab5\task3\bin\Debug\Task 3.pdb
+C:\Users\кирилл\OneDrive\компьютерная графика\lab5\task3\obj\Debug\Task 3.csprojResolveAssemblyReference.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\lab5\task3\obj\Debug\Task_3.Form1.resources
+C:\Users\кирилл\OneDrive\компьютерная графика\lab5\task3\obj\Debug\Task_3.Properties.Resources.resources
+C:\Users\кирилл\OneDrive\компьютерная графика\lab5\task3\obj\Debug\Task 3.csproj.GenerateResource.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\lab5\task3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+C:\Users\кирилл\OneDrive\компьютерная графика\lab5\task3\obj\Debug\Task 3.exe
+C:\Users\кирилл\OneDrive\компьютерная графика\lab5\task3\obj\Debug\Task 3.pdb
